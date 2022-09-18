@@ -1,2 +1,21 @@
-Hi
-Hello
+new repo
+-----------
+git init (to initalize the repo)	
+git clone <url> (to clone / copy the repote repo)
+
+exising repo
+-------------
+you made  the changes to code.
+git status
+git add . (to add the code to staging repo)
+git commit -m "msg" (comminng)
+git push (to push code to remote repo)
+
+
+Vi editor
+vi <filename> [to open the file]
+commands:
+i = insert mode
+esc = to exit the edit mode
+:q! = to exit file with out saving
+:wq! = to exit file with saving file
