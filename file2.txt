@@ -6,7 +6,7 @@ git clone <url> (to clone / copy the repote repo)
 exising repo
 -------------
 you made  the changes to code.
-git status
+git status [ to know the changes you made ] [red = not added, green = added]
 git add . (to add the code to staging repo)
 git commit -m "msg" (comminng)
 git push (to push code to remote repo)
